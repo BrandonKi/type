@@ -1,6 +1,6 @@
 # type
 
-Just adds one function `type()`. All it does is get a human-readable version of the type of it's argument.
+Just adds one function `type()`. All it does is get a human-readable version of the type of it's argument at compile-time.
 
 ### example usage
 ```cpp
